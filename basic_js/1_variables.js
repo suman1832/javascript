@@ -11,5 +11,8 @@ console.log(stuCity)
 
 console.table([stuName,stuCity,stuRoll,stuadd])
 
-//we will not use var instead we use let in the code
-//const -> it's value will be constant, value won't be changed
+/*
+we will not use var instead we use let in the code because of issue
+in block scope and functional scope.
+const -> it's value will be constant, value won't be changed
+*/
